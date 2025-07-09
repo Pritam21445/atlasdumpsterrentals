@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What’s included in your dumpster pricing?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Your dumpster rental cost includes delivery, pickup, a multi-day rental period, and weight allowance—no hidden fees. That’s why we’re known for affordable dumpster rental near me pricing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I mix concrete and wood in the same dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"> No. For safety and compliance, concrete dumpster rental requires clean-loading. Ask about our 10 yard bin rental options for concrete, brick, or dirt.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s the smallest dumpster you offer?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We have 5 yard dumpster rental, 6 yard dumpster, and 10 yard roll off dumpsters available for compact cleanups.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How do I avoid overfilling my dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Ensure that nothing extends above the rim. Overfilled dumpsters near me can’t be hauled for safety reasons.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can you deliver a dumpster in tight spaces?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our drivers use satellite imaging and field experience to carefully place dumpsters—even in tight driveways or alleys.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
